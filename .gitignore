@@ -1,0 +1,7 @@
+data/raw/
+data/parquet/
+data/csv/
+.ipynb_checkpoints/
+jars/*.jar
+__pycache__/
+*.pyc
